@@ -14,11 +14,11 @@
 
 Данные собраны пользователем Pikabu под ником *qutt* с помощью скрейпинга страниц Интерпола с фильтром по стране (Россия): https://www.interpol.int/en/How-we-work/Notices/View-Red-Notices
 
-Ссылка на оригинальный пост: https://pikabu.ru/story/nemnogo_statistiki_k_postu_osobennosti_sostava_razyiskivaemyikh_prestupnikov_iz_rf_po_dannyim_interpola_7999554
+[Ссылка на оригинальный пост] (https://pikabu.ru/story/nemnogo_statistiki_k_postu_osobennosti_sostava_razyiskivaemyikh_prestupnikov_iz_rf_po_dannyim_interpola_7999554)
 
-Ссылки на данные, выложенные пользователем *qutt*: https://www.dropbox.com/s/2nxtpd5pufev1gh
+[Ссылки на данные, выложенные пользователем *qutt*](https://www.dropbox.com/s/2nxtpd5pufev1gh)
 
-Ссылки на данные из Hub of Data: https://hubofdata.ru/dataset/interpol_russia
+[Ссылки на данные из Hub of Data](https://hubofdata.ru/dataset/interpol_russia)
 
 ### 4. Ограничения на материал, легальность
 
